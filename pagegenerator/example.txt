@@ -1,0 +1,4 @@
+Creating a static page generator for blog
+16 August 20, by Abbas Jafari
+
+I had a really tough time figuring out how Ruby works behind the Jekyll and making my own static page generator seemed a worthy adventure, here is the link to<a herf=”https://github.com/realabja/pagegenerator” target=”_blank”> Gitub repo</a> I used python and learn a lot about its functionalities like globals() function which is a way to address all variables and their names it works slightly different than normal function (I believe). I used it to be a bit more dynamic with passing values one thing that I wish I found a way to use is Closers. I have learned about them recently and meaning to use them for a while. Also, I wasted quite of time on regex and realizing match objects are different than search object. But overall it was a productive weekend and that is all I need to be happy. Peace ✌️

@@ -1,0 +1,22 @@
+ <div class="post" onclick="location.href='/blog/posts/{folder_name(title)}';" style="cursor: pointer;">
+     <div class="postPic">
+         <img src="/blog/posts/{folder_name(title)}/pageimage.png" alt="">
+     </div>
+     <div class="postContent">
+         <div class="postContentOverlay"></div>
+         <div class="postTitle">
+             <h3 style="margin-bottom: -20px;">
+                f'{title}'
+             </h3>
+             <h6 style="margin-bottom: -10px;">
+                 f'{date_and_writer}'
+             </h6>
+         </div>
+         <div class="postText">
+             <p>
+                f'{text}'
+             </p>
+         </div>
+
+     </div>
+ </div>
