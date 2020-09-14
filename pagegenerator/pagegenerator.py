@@ -47,7 +47,9 @@ except:
 
 with open(f"{folder_name(title)}/index.html", "w")as processed_page:
     processed_page.writelines(process(post_template))
+    print("page created")
 
 
 with open(f"{folder_name(title)}/post-preview.html", "w")as processed_page:
     processed_page.writelines(process(post_preview))
+    print("page created")

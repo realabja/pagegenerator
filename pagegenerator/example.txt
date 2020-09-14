@@ -1,3 +1,5 @@
-Followursera
-20 August 2020
-Coursera is a great source to understand the principle of HTML CSS and JavaScript. I have bin following the course and planned to spend half an hour a day. Currently, I am in week two, CSS. It is going great.
+Bash terminal
+14 September 2020
+As much as I love working with computer terminal it is quite challenging to learn everything about them.Of course I wouldn't learn everything, but
+there are cool things we can use it for and it is also different from programming in a way and it is always good to do something just to get push
+yourself further and think from a different perspective. I love this journey of mine.
